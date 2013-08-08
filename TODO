@@ -1,0 +1,25 @@
+
+DJ's todos:
+
+* Remove pennies, they are distracting
+
+* Round major displayed numbers to 3 significant figures
+
+* Fix Navigation section.  It doesnt fit in visually, the word
+  "Navigation" is unhelpful and indirect, it breaks the flow of
+  reading.  It's not help when needed.  Maybe move it to the right?
+
+* Fix popups in FAQ section.  Perhaps make hidden paragraphs rather than popups.
+
+* Separate graduate-and-find-a-job from the question of how long they
+  stay in that job -- it was confusing as initially worded.
+
+* What percentage of those->What percentage of participants
+
+* Move "Reset to defaults" closer to the calc
+
+* Label the questions as Frequently Asked Questions?
+
+* How valuable is one QALY -> What is the cost of one QALY
+
+* For consistency, make the social discount rate work the same as other percent-based fields such as Robin Hood Factor
